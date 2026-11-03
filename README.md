@@ -6,6 +6,16 @@ The script reads raw sales data, removes duplicates, fixes inconsistent text, fi
 
 ![Report preview](images/report.png)
 
+## Before and after
+
+**Before:** messy raw data with duplicates, blank cells and inconsistent text
+
+![Raw data](images/raw_data.png)
+
+**After:** a cleaning summary on the Overview sheet
+
+![Overview](images/overview.png)
+
 ## Features
 
 - Removes duplicate rows
