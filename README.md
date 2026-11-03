@@ -16,6 +16,10 @@ The script reads raw sales data, removes duplicates, fixes inconsistent text, fi
 
 ![Overview](images/overview.png)
 
+**Monthly breakdown:** revenue per month, split by region
+
+![Monthly](images/monthly.png)
+
 ## Features
 
 - Removes duplicate rows
